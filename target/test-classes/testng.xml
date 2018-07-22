@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="E2E Test Suite With Chrome" verbose="1"  >
+    <test name="Regression_Chrome" >
+        <classes>
+            <class name="e2etest.HomeTest"/>
+        </classes>
+    </test>
+</suite>
